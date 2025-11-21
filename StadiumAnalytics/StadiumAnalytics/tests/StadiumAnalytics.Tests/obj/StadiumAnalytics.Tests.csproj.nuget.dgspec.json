@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\tests\\StadiumAnalytics.Tests\\StadiumAnalytics.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Api\\StadiumAnalytics.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Api\\StadiumAnalytics.Api.csproj",
+        "projectName": "StadiumAnalytics.Api",
+        "projectPath": "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Api\\StadiumAnalytics.Api.csproj",
+        "packagesPath": "C:\\Users\\anith\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anith\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Infrastructure\\StadiumAnalytics.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Infrastructure\\StadiumAnalytics.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Infrastructure\\StadiumAnalytics.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Infrastructure\\StadiumAnalytics.Infrastructure.csproj",
+        "projectName": "StadiumAnalytics.Infrastructure",
+        "projectPath": "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Infrastructure\\StadiumAnalytics.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\anith\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anith\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\tests\\StadiumAnalytics.Tests\\StadiumAnalytics.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\tests\\StadiumAnalytics.Tests\\StadiumAnalytics.Tests.csproj",
+        "projectName": "StadiumAnalytics.Tests",
+        "projectPath": "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\tests\\StadiumAnalytics.Tests\\StadiumAnalytics.Tests.csproj",
+        "packagesPath": "C:\\Users\\anith\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\tests\\StadiumAnalytics.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anith\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Api\\StadiumAnalytics.Api.csproj": {
+                "projectPath": "C:\\Users\\anith\\Documents\\repos\\honeywell\\StadiumAnalytics\\StadiumAnalytics\\src\\StadiumAnalytics.Api\\StadiumAnalytics.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

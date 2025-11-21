@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pvrrsnuOf3EE+bMI9mgUxInbhGOlzjXjgScWfjZWDig=",
+  "Source": "StadiumAnalytics.Api",
+  "BasePath": "_content/StadiumAnalytics.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

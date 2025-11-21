@@ -1,0 +1,12 @@
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\bin\Debug\net8.0\StadiumAnalytics.Infrastructure.deps.json
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\bin\Debug\net8.0\StadiumAnalytics.Infrastructure.dll
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\bin\Debug\net8.0\StadiumAnalytics.Infrastructure.pdb
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\obj\Debug\net8.0\StadiumAnalytics.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\obj\Debug\net8.0\StadiumAnalytics.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\obj\Debug\net8.0\StadiumAnalytics.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\obj\Debug\net8.0\StadiumAnalytics.Infrastructure.AssemblyInfo.cs
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\obj\Debug\net8.0\StadiumAnalytics.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\obj\Debug\net8.0\StadiumAnalytics.Infrastructure.dll
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\obj\Debug\net8.0\refint\StadiumAnalytics.Infrastructure.dll
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\obj\Debug\net8.0\StadiumAnalytics.Infrastructure.pdb
+C:\Users\anith\Documents\repos\honeywell\StadiumAnalytics\StadiumAnalytics\src\StadiumAnalytics.Infrastructure\obj\Debug\net8.0\ref\StadiumAnalytics.Infrastructure.dll
